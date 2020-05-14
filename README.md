@@ -1,2 +1,2 @@
 # Project-1
-Predicting the Attrition of and Employee in the organisation
+Predicting the Attrition of an Employee in the organisation
